@@ -1,9 +1,3 @@
-"""
-Python Data Structures - A Game-Based Approach
-Reading a maze from a text file
-Robin Andrews - https://compucademy.net/
-"""
-
 
 def read_maze(file_name):
     """
